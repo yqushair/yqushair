@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @yqushair
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋🏼 Hi! My name's Yanal, I'm a graduate student at Stanford University pursuing a master's degree in Computer Science.
 
-<!---
-yqushair/yqushair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I graduated from Stanford in 2021 with a B.S. in Symbolic Systems: Neurosciences.
+
+🧠 I'm hoping to pursue a career in the brain-machine interface (BMI) industry.
+
+You can reach me at:\
+✉️ yqushair@stanford.edu\
+💼 https://www.linkedin.com/in/yqushair/
