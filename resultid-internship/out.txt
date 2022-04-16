@@ -1,0 +1,60 @@
+-----------------------------------------
+Match in Crunchbase? --> True
+	companyName: GlaxoSmithKline PLC
+	companyID: f246cf79-539c-4b3e-81cd-558222249efa
+	score: 14.2578125
+Info from 10-K:
+	nameFrom10K: GlaxoSmithKline PLC
+	context: On October 16, 2009, GlaxoSmithKline PLC was granted approval in the United States for a similar preventive HPV vaccine, known as Cervarix.
+-----------------------------------------
+
+-----------------------------------------
+Match in Crunchbase? --> True
+	companyName: SpectraScience
+	companyID: f8bed905-2380-4d49-8473-df848a30cb8e
+	score: 11.7872505
+Info from 10-K:
+	nameFrom10K: Spectrascience, Inc.
+	context: Inc. (since acquired by Spectrascience, Inc.).
+-----------------------------------------
+
+-----------------------------------------
+Match in Crunchbase? --> True
+	companyName: Hologic
+	companyID: 1c059352-3bc5-47ef-aca7-ebf8b1b02d0b
+	score: 11.685196
+Info from 10-K:
+	nameFrom10K: Hologic
+	context: Improvements and new technologies for cervical cancer detection and prevention, such as Thin-Prep from Hologic and HPV testing from Qiagen, have led to other new competitors.
+-----------------------------------------
+
+-----------------------------------------
+Match in Crunchbase? --> True
+	companyName: Merck
+	companyID: 839cffbc-a4bd-4212-992e-99bdcc0d9118
+	score: 11.054865
+Info from 10-K:
+	nameFrom10K: Merck & Co.
+	context: In June 2006, the FDA approved the HPV vaccine Gardasil from drug maker Merck & Co.,
+-----------------------------------------
+
+-----------------------------------------
+Match in Crunchbase? --> True
+	companyName: DYSIS Medical
+	companyID: 21f2775f-87bc-4cbd-833a-93883908138e
+	score: 9.074442
+Info from 10-K:
+	nameFrom10K: Dysis
+	context: In addition to the Medispectra device, there are other technologies that are seeking to enter the market as adjuncts to colposcopy, including devices from Dysis and Zedco.
+-----------------------------------------
+
+-----------------------------------------
+Match in Crunchbase? --> True
+	companyName: Qiagen N.V.
+	companyID: 9212dabf-c093-46d4-ab58-13fbd15fb68a
+	score: 8.80271
+Info from 10-K:
+	nameFrom10K: Qiagen
+	context: Improvements and new technologies for cervical cancer detection and prevention, such as Thin-Prep from Hologic and HPV testing from Qiagen, have led to other new competitors.
+-----------------------------------------
+
