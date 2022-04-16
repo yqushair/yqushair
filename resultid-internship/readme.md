@@ -10,4 +10,4 @@ You can access each of the following files:
 - `basic_ner_test.py`: the pipeline's main file and entry point. A company's 10-K report is supplied via command line, and a list of competitors found in the report is outputted, with the competitors' names and company IDs as found in Resultid's company database (if applicable).
 - `company.py`: code defining the "Company" class and associated methods.
 - `resultid_es_query.py`: defines the `crunchbase_query(queryString)` function which queries Resultid's Crunchbase database for potential matches to the provided `queryString`. The structure of the returned result is outlined in the file's comments.
-- `test.py`: short script that passes each of the available 10-K reports to the named entity recognition (NER) pipeline.
+- `run.py`: short script that passes each of the available 10-K reports to the named entity recognition (NER) pipeline.
