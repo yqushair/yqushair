@@ -12,7 +12,7 @@ From January 2021 to March 2021, I worked with Resultid as a natural language pr
 > - "laid the groundwork for future development on that module and adjacent ones through clear and precise engineering choices on Yanal's part."
 
 🗄 Included above are each of the following files:
-- `basic_ner_test.py`: the pipeline's main file and entry point. A company's 10-K report is supplied via command line, and a list of competitors found in the report is outputted, with the competitors' names and company IDs as found in Resultid's company database (if applicable).
+- `basic_ner_test.py`: the model's main file and entry point. A company's 10-K report is supplied via command line, and a list of competitors found in the report is outputted, with the competitors' names and company IDs as found in Resultid's company database (if applicable).
 - `company.py`: code defining the "Company" class and associated methods.
 - `resultid_es_query.py`: defines the `crunchbase_query(queryString)` function which queries Resultid's Crunchbase database for potential matches to the provided `queryString`. The structure of the returned result is outlined in the file's comments.
 - `run.py`: short script that passes each of the available 10-K reports to the NER model.
