@@ -1,4 +1,4 @@
-## 👋🏼 Hi! My name's Yanal 👋🏼
+## 👋🏼 Hi! My name's Yanal ☺️
 
 
 ### Education
