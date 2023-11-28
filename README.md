@@ -11,7 +11,7 @@
 ### Work
 🧠 I'm pursuing a career in the brain-machine interface (BMI) industry.
 
-👔 My primary industry experience is in neurotechnology and software development with a focus on natural language processing (NLP).
+💼 My primary industry experience is in neurotechnology and software development with a focus on natural language processing (NLP).
 
 💻 You can find some of the code I developed during my 2021 internship with Resultid in the [`resultid-internship`](https://github.com/yqushair/yqushair/tree/main/resultid-internship) folder above.
 
