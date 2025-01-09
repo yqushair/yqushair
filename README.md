@@ -17,15 +17,6 @@
 
 ---
 
-### Fun Facts
-🇯🇴 I'm from Amman, Jordan
-
-🎵 I play the guitar, alto saxophone, and a bit of trumpet
-
-🐶 I am a dog person
-
----
-
 You can reach me via:\
 ✉️ __Email:__ yanalqushair@gmail.com\
 💼 __LinkedIn__: https://www.linkedin.com/in/yqushair/
